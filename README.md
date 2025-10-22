@@ -11,4 +11,4 @@ This portfolio showcases my skills, education, projects, certifications, and int
 - **No Dependencies** - Pure HTML, CSS, and JavaScript
 - **Fast Loading** - Optimized performance
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-blue?style=for-the-badge&logo=google-chrome)](https://nikhilsajan2003.github.io/Portfolio)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-blue?style=for-the-badge&logo=google-chrome)](https://nikhilsajan2003.github.io/Portfolio.html)
